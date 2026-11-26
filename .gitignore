@@ -2,3 +2,7 @@
 !*/
 !*.cs
 !.gitignore
+
+# block build folders
+bin/
+obj/
