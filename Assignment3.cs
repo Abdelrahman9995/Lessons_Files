@@ -71,7 +71,7 @@ namespace Lessons
                  if(kw > 200)
                 {
                     total += 200 * 2.18;
-                    remaining -= 150;
+                    remaining -= 200;
                 }
                 else
                 {
