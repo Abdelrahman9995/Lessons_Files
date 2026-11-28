@@ -2,5 +2,8 @@ using System;
 
 namespace Lessons
 {
-    class 
+    class Assignment4
+    {
+        
+    }
 }
