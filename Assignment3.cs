@@ -19,6 +19,8 @@ namespace Lessons
             {
                 double remaining;
                 
+                //Tier1
+                if()
             }
         }
     }
