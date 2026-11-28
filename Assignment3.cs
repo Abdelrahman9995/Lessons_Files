@@ -30,6 +30,9 @@ namespace Lessons
                     total += remaining * 0.68
                     remaining = 0;
                 }
+
+                //Tier2
+                if
             }
         }
     }
