@@ -13,7 +13,7 @@ namespace Lessons
 
             if(kw > 1000)
             {
-                total = kw * 2.
+                total = kw * 2.74
             }
         }
     }
