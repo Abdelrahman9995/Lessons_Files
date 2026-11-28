@@ -68,7 +68,7 @@ namespace Lessons
                 }
 
                 //Tier5
-                 if(kw > )
+                 if(kw > 200)
                 {
                     total += 150 * 1.72;
                     remaining -= 150;
