@@ -6,7 +6,7 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-            Console
+            Console.WriteLine("Hello World!")
         }
     }
 }
