@@ -66,6 +66,8 @@ namespace Lessons
                     total += remaining * 1.72;
                     remaining = 0;
                 }
+
+                //Tier5
             }
         }
     }
