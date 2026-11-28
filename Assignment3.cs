@@ -23,6 +23,7 @@ namespace Lessons
                 if(kw > 50)
                 {
                     total += remaining * 0.68;
+                    remaining
                 }
             }
         }
