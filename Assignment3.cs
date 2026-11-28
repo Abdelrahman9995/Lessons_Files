@@ -22,7 +22,7 @@ namespace Lessons
                 //Tier1
                 if(kw > 50)
                 {
-                    total += remaining 
+                    total += remaining * 
                 }
             }
         }
