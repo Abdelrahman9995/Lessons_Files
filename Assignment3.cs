@@ -32,7 +32,7 @@ namespace Lessons
                 }
 
                 //Tier2
-                 if(kw > 50)
+                 if(remaining > 50)
                 {
                     total += 50 * 0.95;
                     remaining -= 50;
