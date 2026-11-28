@@ -46,7 +46,7 @@ namespace Lessons
                 //Tier3
                  if(kw > 100)
                 {
-                    total += 50 * 0.95;
+                    total += 1 * 0.95;
                     remaining -= 50;
                 }
                 else
