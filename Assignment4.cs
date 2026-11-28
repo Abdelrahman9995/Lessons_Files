@@ -10,7 +10,7 @@ namespace Lessons
             int days = int.Parse(Console.ReadLine());
 
             Console.Write("Enter Month: ");
-            int days = int.Parse(Console.ReadLine());
+            int months = int.Parse(Console.ReadLine());
 
             Console.Write("Enter Days: ");
             int days = int.Parse(Console.ReadLine());
