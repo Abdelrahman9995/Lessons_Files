@@ -32,7 +32,16 @@ namespace Lessons
                 }
 
                 //Tier2
-                if()
+                 if(kw > 50)
+                {
+                    total += 50 * 0.68;
+                    remaining -= 50;
+                }
+                else
+                {
+                    total += remaining * 0.68;
+                    remaining = 0;
+                }
             }
         }
     }
