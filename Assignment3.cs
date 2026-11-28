@@ -20,7 +20,7 @@ namespace Lessons
                 double remaining;
                 
                 //Tier1
-                if()
+                if(kw > 50)
             }
         }
     }
