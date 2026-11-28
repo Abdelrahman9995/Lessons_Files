@@ -9,7 +9,7 @@ namespace Lessons
             Console.Write("Enter Your KW Consume: ");
             double kw = double.Parse(Console.ReadLine());
 
-            if
+            if(lw)
         }
     }
 }
