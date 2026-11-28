@@ -4,6 +4,9 @@ namespace Lessons
 {
     class Assignment4
     {
-        
+        static void Main(string[] args)
+        {
+            
+        }
     }
 }
