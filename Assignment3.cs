@@ -20,7 +20,7 @@ namespace Lessons
                 double remaining = kw;
                 
                 //Tier1
-                if(kw > 50)
+                if(remaining > 50)
                 {
                     total += 50 * 0.68;
                     remaining -= 50;
