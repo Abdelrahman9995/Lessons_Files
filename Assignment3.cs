@@ -12,6 +12,9 @@ namespace Lessons
             double total;
 
             if(kw > 1000)
+            {
+                
+            }
         }
     }
 }
