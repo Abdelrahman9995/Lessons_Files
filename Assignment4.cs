@@ -17,7 +17,7 @@ namespace Lessons
 
             int[] daysInMonths = { 31, 28 ,31 ,30, 31, 30, 31, 31, 30, 31 ,30 ,31};
 
-            if(year % 4)
+            if(year % 4 == 0)
 
 
         }
