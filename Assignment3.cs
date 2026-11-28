@@ -54,6 +54,18 @@ namespace Lessons
                     total += remaining * 1.15;
                     remaining = 0;
                 }
+
+                //Tier4
+                 if(kw > 100)
+                {
+                    total += 100 * 1.15;
+                    remaining -= 100;
+                }
+                else
+                {
+                    total += remaining * 1.15;
+                    remaining = 0;
+                }
             }
         }
     }
