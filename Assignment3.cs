@@ -39,7 +39,7 @@ namespace Lessons
                 }
                 else
                 {
-                    total += remaining * 0.;
+                    total += remaining * 0.95;
                     remaining = 0;
                 }
             }
