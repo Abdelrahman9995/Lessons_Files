@@ -79,7 +79,8 @@ namespace Lessons
                     remaining = 0;
                 }
             }
-            
+
+            total 
         }
     }
 }
