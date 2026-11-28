@@ -25,6 +25,10 @@ namespace Lessons
                     total += remaining * 0.68;
                     remaining -= 50;
                 }
+                else
+                {
+                    
+                }
             }
         }
     }
