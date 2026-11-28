@@ -14,6 +14,8 @@ namespace Lessons
 
             Console.Write("Enter year (yy): ");
             int year = 2000 + int.Parse(Console.ReadLine());
+
+            
         }
     }
 }
