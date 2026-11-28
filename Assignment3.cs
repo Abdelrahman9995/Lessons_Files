@@ -8,6 +8,8 @@ namespace Lessons
         {
             Console.Write("Enter Your KW Consume: ");
             double kw = double.Parse(Console.ReadLine());
+            double fee = 15;
+            
 
             if(kw > 1000)
         }
