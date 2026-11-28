@@ -80,7 +80,7 @@ namespace Lessons
                 }
             }
 
-            total 
+            total += fee;
         }
     }
 }
