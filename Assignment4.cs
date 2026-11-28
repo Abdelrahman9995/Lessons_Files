@@ -16,6 +16,8 @@ namespace Lessons
             int year = 2000 + int.Parse(Console.ReadLine());
 
             int[] daysInMonths = { 31, 28 ,31 ,30, 31, 30, 31, 31, 30, 31 ,30 ,31};
+
+            
         }
     }
 }
