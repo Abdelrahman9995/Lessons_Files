@@ -68,6 +68,16 @@ namespace Lessons
                 }
 
                 //Tier5
+                 if(kw > 150)
+                {
+                    total += 150 * 1.72;
+                    remaining -= 150;
+                }
+                else
+                {
+                    total += remaining * 1.72;
+                    remaining = 0;
+                }
             }
         }
     }
