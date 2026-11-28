@@ -7,7 +7,9 @@ namespace Lessons
         static void Main(string[] args)
         {
             Console.Write("Enter Your KW Consume: ");
-            double kw = double.Parse(Console.ReadLine())
+            double kw = double.Parse(Console.ReadLine());
+
+            
         }
     }
 }
