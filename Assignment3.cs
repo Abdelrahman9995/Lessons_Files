@@ -6,7 +6,8 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter Your KW Consume: ")
+            Console.Write("Enter Your KW Consume: ");
+            
         }
     }
 }
