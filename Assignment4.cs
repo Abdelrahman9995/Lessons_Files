@@ -7,7 +7,7 @@ namespace Lessons
         static void Main(string[] args)
         {
             Console.Write("Enter Days: ");
-            int days = int.Parse("")
+            int days = int.Parse(Console.ReadLine())
         }
     }
 }
