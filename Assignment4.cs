@@ -15,7 +15,7 @@ namespace Lessons
             Console.Write("Enter year (yy): ");
             int year = 2000 + int.Parse(Console.ReadLine());
 
-            int daysInMonths = new int  
+            int daysInMonths = new int {} 
         }
     }
 }
