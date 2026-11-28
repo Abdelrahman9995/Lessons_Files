@@ -11,6 +11,7 @@ namespace Lessons
 
             Console.Write("Enter Days: ");
             int days = int.Parse(Console.ReadLine());
+            
             Console.Write("Enter Days: ");
             int days = int.Parse(Console.ReadLine());
         }
