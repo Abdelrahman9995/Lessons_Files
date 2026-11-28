@@ -12,7 +12,7 @@ namespace Lessons
             Console.Write("Enter Month: ");
             int months = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter Days: ");
+            Console.Write("Enter year (yy): ");
             int days = int.Parse(Console.ReadLine());
         }
     }
