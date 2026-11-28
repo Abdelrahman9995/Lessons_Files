@@ -28,7 +28,7 @@ namespace Lessons
                 julainday += daysInMonths[i];
             }
 
-            Console.WriteLine("Your Julain day is: {}")
+            Console.WriteLine("Your Julain day is: {julainday}")
 
         }
     }
