@@ -27,7 +27,7 @@ namespace Lessons
                 }
                 else
                 {
-                    total += remaining * 0.68
+                    total += remaining * 0.68;
                     remaining = 0;
                 }
 
