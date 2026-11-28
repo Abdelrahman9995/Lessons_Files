@@ -1,3 +1,3 @@
 using System;
 
-namespace
+namespace Lessons
