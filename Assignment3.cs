@@ -15,6 +15,10 @@ namespace Lessons
             {
                 total = kw * 2.74;
             }
+            else
+            {
+                double remaining
+            }
         }
     }
 }
