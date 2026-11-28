@@ -25,7 +25,7 @@ namespace Lessons
             int julainday = days;
             for(int i = 0; i < months - 1; i++)
             {
-                
+                julainday = 
             }
 
 
