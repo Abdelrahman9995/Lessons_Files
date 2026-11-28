@@ -44,7 +44,7 @@ namespace Lessons
                 }
 
                 //Tier3
-                 if(kw > 100)
+                 if(remaining > 100)
                 {
                     total += 100 * 1.15;
                     remaining -= 100;
