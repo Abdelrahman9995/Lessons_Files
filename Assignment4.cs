@@ -19,7 +19,7 @@ namespace Lessons
 
             if(year % 4 == 0)
             {
-                daysInMonths[1]
+                daysInMonths[1] = 29;
             }
 
 
