@@ -56,7 +56,7 @@ namespace Lessons
                 }
 
                 //Tier4
-                 if(kw > 100)
+                 if(kw > 150)
                 {
                     total += 100 * 1.15;
                     remaining -= 100;
