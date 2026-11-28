@@ -32,7 +32,7 @@ namespace Lessons
                 }
 
                 //Tier2
-                if
+                if()
             }
         }
     }
