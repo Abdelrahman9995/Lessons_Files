@@ -81,7 +81,7 @@ namespace Lessons
             }
 
             total += fee;
-            Console.Write("Your Total is {}")
+            Console.Write("Your Total is {total}")
         }
     }
 }
