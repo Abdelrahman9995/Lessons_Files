@@ -51,7 +51,7 @@ namespace Lessons
                 }
                 else
                 {
-                    total += remaining * ;
+                    total += remaining * 1.15;
                     remaining = 0;
                 }
             }
