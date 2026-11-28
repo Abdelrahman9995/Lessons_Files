@@ -22,7 +22,8 @@ namespace Lessons
                 daysInMonths[1] = 29;
             }
 
-            int julainday = days
+            int julainday = days;
+            for(int i = 0)
 
 
         }
