@@ -17,7 +17,7 @@ namespace Lessons
             }
             else
             {
-                double remaining;
+                double remaining = kw;
                 
                 //Tier1
                 if(kw > 50)
