@@ -17,7 +17,8 @@ namespace Lessons
             }
             else
             {
-                double remaining
+                double remaining;
+                
             }
         }
     }
