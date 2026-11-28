@@ -13,7 +13,7 @@ namespace Lessons
             int months = int.Parse(Console.ReadLine());
 
             Console.Write("Enter year (yy): ");
-            int year = 2000 + int.Parse(Console.ReadLine()); // 200
+            int year = 2000 + int.Parse(Console.ReadLine()); // 2000 to 2099
 
             int[] daysInMonths = { 31, 28 ,31 ,30, 31, 30, 31, 31, 30, 31 ,30 ,31};
 
